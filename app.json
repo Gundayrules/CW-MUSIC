@@ -1,12 +1,12 @@
 {
-    "name": "𝐂𝐖-𝐌𝐔𝐒𝐈𝐂",
+    "name": "DW-𝐌𝐔𝐒𝐈𝐂",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://te.legra.ph/file/14b592b31ef473e1e9293.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "CW-MUSIC",
+    "DW-MUSIC",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
