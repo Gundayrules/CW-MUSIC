@@ -26,4 +26,4 @@
 </p>
 
 
-- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [🦅ATUL™](https://github.com/cwteam169) ғᴏʀ [🦅𝐒˚𝐇˚𝐈˚𝐕˚𝐀˚𝐍˚𝐆™](https://github.com/cwteam169/CW-MUSIC) </b>
+- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [🦅ATUL™](https://github.com/cwteam169) ғᴏʀ [🦅LADLI WORLD™](https://github.com/cwteam169/CW-MUSIC) </b>
